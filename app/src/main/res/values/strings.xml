@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyHeroeApp</string>
+    <string name="correo_electronico">Correo electronico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="publishers">Publishers</string>
+    <string name="publisher">Publisher</string>
+    <string name="nombre_heroe">nombre Heroe</string>
+</resources>
